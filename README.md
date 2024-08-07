@@ -1,1 +1,1 @@
-# Weather App devloped to practive Javascript and working with API's
+## Weather App devloped to practice Javascript and working with API's
